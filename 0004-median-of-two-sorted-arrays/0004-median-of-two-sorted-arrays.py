@@ -5,22 +5,22 @@ class Solution:
 
         m, n = len(nums1), len(nums2)
         left, right = 0, m
+        half = (m + n + 1) // 2
 
         while left <= right:
             i = (left + right) // 2
-            j = (m + n + 1) // 2 - i
+            j = half - i
 
-            maxLeft1 = float("-inf") if i == 0 else nums1[i - 1]
-            minRight1 = float("inf") if i == m else nums1[i]
+            l1 = float("-inf") if i == 0 else nums1[i - 1]
+            r1 = float("inf") if i == m else nums1[i]
+            l2 = float("-inf") if j == 0 else nums2[j - 1]
+            r2 = float("inf") if j == n else nums2[j]
 
-            maxLeft2 = float("-inf") if j == 0 else nums2[j - 1]
-            minRight2 = float("inf") if j == n else nums2[j]
-
-            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
+            if l1 <= r2 and l2 <= r1:
                 if (m + n) % 2:
-                    return float(max(maxLeft1, maxLeft2))
-                return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2
-            elif maxLeft1 > minRight2:
+                    return max(l1, l2)
+                return (max(l1, l2) + min(r1, r2)) / 2
+            elif l1 > r2:
                 right = i - 1
             else:
                 left = i + 1
