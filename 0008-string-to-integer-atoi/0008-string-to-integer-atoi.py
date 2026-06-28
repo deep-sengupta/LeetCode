@@ -7,7 +7,7 @@ class Solution:
             i += 1
 
         sign = 1
-        if i < n and (s[i] == '+' or s[i] == '-'):
+        if i < n and s[i] in "+-":
             if s[i] == '-':
                 sign = -1
             i += 1
@@ -23,4 +23,5 @@ class Solution:
             return -2**31
         if num > 2**31 - 1:
             return 2**31 - 1
+
         return num
