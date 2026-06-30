@@ -6,7 +6,6 @@ class Solution:
 
         for right in range(len(s)):
             count[s[right]] += 1
-
             while count['a'] and count['b'] and count['c']:
                 ans += len(s) - right
                 count[s[left]] -= 1
