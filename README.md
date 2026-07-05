@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deep-sengupta/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deep-sengupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deep-sengupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deep-sengupta/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/deep-sengupta/LeetCode/tree/master/0010-regular-expression-matching) |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
