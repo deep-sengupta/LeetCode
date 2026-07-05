@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/deep-sengupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/deep-sengupta/LeetCode/tree/master/0011-container-with-most-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deep-sengupta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deep-sengupta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deep-sengupta/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deep-sengupta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/deep-sengupta/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/deep-sengupta/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/deep-sengupta/LeetCode/tree/master/0010-regular-expression-matching) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deep-sengupta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
