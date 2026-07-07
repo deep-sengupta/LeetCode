@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deep-sengupta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deep-sengupta/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deep-sengupta/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/deep-sengupta/LeetCode/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deep-sengupta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deep-sengupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/deep-sengupta/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/deep-sengupta/LeetCode/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deep-sengupta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
