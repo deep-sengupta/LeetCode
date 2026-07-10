@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/deep-sengupta/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/deep-sengupta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/deep-sengupta/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deep-sengupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/deep-sengupta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/deep-sengupta/LeetCode/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deep-sengupta/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/deep-sengupta/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/deep-sengupta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/deep-sengupta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/deep-sengupta/LeetCode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
