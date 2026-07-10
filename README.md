@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deep-sengupta/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/deep-sengupta/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/deep-sengupta/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deep-sengupta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deep-sengupta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deep-sengupta/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deep-sengupta/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/deep-sengupta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deep-sengupta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/deep-sengupta/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/deep-sengupta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deep-sengupta/LeetCode/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/deep-sengupta/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deep-sengupta/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deep-sengupta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
