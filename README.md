@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/deep-sengupta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deep-sengupta/LeetCode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/deep-sengupta/LeetCode/tree/master/0091-decode-ways) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deep-sengupta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deep-sengupta/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deep-sengupta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/deep-sengupta/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deep-sengupta/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/deep-sengupta/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
