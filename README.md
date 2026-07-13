@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deep-sengupta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/deep-sengupta/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deep-sengupta/LeetCode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/deep-sengupta/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/deep-sengupta/LeetCode/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/deep-sengupta/LeetCode/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deep-sengupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
@@ -281,9 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deep-sengupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deep-sengupta/LeetCode/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
