@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/deep-sengupta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deep-sengupta/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/deep-sengupta/LeetCode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/deep-sengupta/LeetCode/tree/master/0091-decode-ways) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deep-sengupta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deep-sengupta/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/deep-sengupta/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deep-sengupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
