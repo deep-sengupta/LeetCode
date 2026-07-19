@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deep-sengupta/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deep-sengupta/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -316,12 +317,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deep-sengupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deep-sengupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
