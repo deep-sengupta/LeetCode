@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/deep-sengupta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/deep-sengupta/LeetCode/tree/master/0118-pascals-triangle) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deep-sengupta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/deep-sengupta/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/deep-sengupta/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0118-pascals-triangle](https://github.com/deep-sengupta/LeetCode/tree/master/0118-pascals-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deep-sengupta/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/deep-sengupta/LeetCode/tree/master/3620-network-recovery-pathways) |
