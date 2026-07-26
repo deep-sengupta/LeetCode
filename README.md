@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deep-sengupta/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/deep-sengupta/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/deep-sengupta/LeetCode/tree/master/0136-single-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deep-sengupta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/deep-sengupta/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/deep-sengupta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/deep-sengupta/LeetCode/tree/master/0089-gray-code) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deep-sengupta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deep-sengupta/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/deep-sengupta/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/deep-sengupta/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deep-sengupta/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/deep-sengupta/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
