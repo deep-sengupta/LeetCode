@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/deep-sengupta/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/deep-sengupta/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deep-sengupta/LeetCode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/deep-sengupta/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/deep-sengupta/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deep-sengupta/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/deep-sengupta/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/deep-sengupta/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deep-sengupta/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/deep-sengupta/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deep-sengupta/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deep-sengupta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/deep-sengupta/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/deep-sengupta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/deep-sengupta/LeetCode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/deep-sengupta/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deep-sengupta/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deep-sengupta/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deep-sengupta/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deep-sengupta/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/deep-sengupta/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
