@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/deep-sengupta/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/deep-sengupta/LeetCode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-sengupta/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deep-sengupta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deep-sengupta/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deep-sengupta/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/deep-sengupta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/deep-sengupta/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/deep-sengupta/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/deep-sengupta/LeetCode/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
